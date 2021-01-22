@@ -3,8 +3,8 @@
 ### Installation
 <pre>
  cd /home
- git clone https://github.com/znzn9292/myhome
- cd Docker-Practice
+ git clone https://github.com/znzn9292/Docker-Project
+ cd Docker-Project
 </pre>
 
 ### Run
